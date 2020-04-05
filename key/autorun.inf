@@ -1,0 +1,4 @@
+[autorun]
+ ;Open=keylogger.exe
+ ShellExecute=YOURAPP.exe
+ UseAutoPlay=1
